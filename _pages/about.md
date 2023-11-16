@@ -16,4 +16,4 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am a PhD Student in <a href=''>Electrical and Computer Engineering</a> at UCSD Working in the <a href='https://wcsng.ucsd.edu/'>Wireless Communication, Sensing and Networking Group</a>, led by <a href='https://dineshb-ucsd.github.io/'>Prof. Dinesh Bharadia</a>. Prior to that, I received my BSc from Sharif University in Electrical Engineering.
 
-My research interests include **Machine Learning** algorithms and their applicatiions in **Wireless Communication Systems**. 
+My research interests include **Machine Learning** algorithms and their applications in **Wireless Communication Systems**. 
