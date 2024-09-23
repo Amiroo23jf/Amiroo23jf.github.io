@@ -9,7 +9,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: MSc
+    - title: Master of Science
       institution: Institut Polytechnique de Paris, Paris, France
       year: 2024 -
       description:
@@ -20,6 +20,10 @@
 - title: Experience
   type: time_table
   contents:
+    - title: R&D Engineer
+      institution: Open 5G Lab
+      year: 2022 - 2024
+      
     - title: Research Intern
       institution: Max Planck Institute for Intelligent Systems
       year: 2022 - 2023
